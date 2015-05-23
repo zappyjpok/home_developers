@@ -1,0 +1,28 @@
+@import "../../../vendor/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
+
+@import 'pages/main.scss';
+
+.float-left {
+  float: left;
+  padding-left: 10px;
+}
+
+.float-right {
+  float: right;
+}
+
+.ul-horizontal-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.li-horizontal-list{
+  float: left;
+  padding-left:10px;
+}
+
+.top-border {
+  border-top: 1px solid #000000;
+  margin-top: 20px;
+}

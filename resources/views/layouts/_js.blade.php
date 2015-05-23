@@ -1,0 +1,1 @@
+<script src=" {{ URL::asset('output/js/final.js') }}" />
